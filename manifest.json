@@ -2,6 +2,17 @@
   "schema_version": 1,
   "app_id": "com.viva.mensagens",
   "channel": "stable",
-  "latest": null,
+  "latest": {
+    "version": "1.5.40",
+    "version_code": 1040,
+    "title": "Atualização do Viva 1.5.40",
+    "description": "Atualização oficial do Viva.",
+    "is_mandatory": false,
+    "apk_url": "https://github.com/kainanmarquess-bit/Viva-Updates/releases/download/v1.5.40/viva-1.5.40.apk",
+    "sha256": "d5e9ede9892744ec8a3dfd9ec5416a089c3c736daeffeb4e42cd461f8ed3c59e",
+    "tag": "v1.5.40",
+    "source_commit": "1d048d34451159031e9aded3882ce8c8d4d92608",
+    "is_recovery": false
+  },
   "previous": null
 }
