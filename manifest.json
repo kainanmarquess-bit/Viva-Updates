@@ -3,6 +3,18 @@
   "app_id": "com.viva.mensagens",
   "channel": "stable",
   "latest": {
+    "version": "1.5.142",
+    "version_code": 2142,
+    "title": "Viva 1.5.113 – Atualização oficial",
+    "description": "Melhorias no sistema de áudio, personalização de perfis, banners e organização do painel administrativo.",
+    "is_mandatory": false,
+    "apk_url": "https://github.com/kainanmarquess-bit/Viva-Updates/releases/download/v1.5.142/viva-1.5.142.apk",
+    "sha256": "e034244fd44c5dbdff15aa5a149897ba4c6527dcde48bc5a07eaed89bf36cc97",
+    "tag": "v1.5.142",
+    "source_commit": "d5b01667ea8d2dda769c13a62ddde9ec16e9b884",
+    "is_recovery": false
+  },
+  "previous": {
     "version": "1.5.40",
     "version_code": 1040,
     "title": "Atualização do Viva 1.5.40",
@@ -13,6 +25,5 @@
     "tag": "v1.5.40",
     "source_commit": "1d048d34451159031e9aded3882ce8c8d4d92608",
     "is_recovery": false
-  },
-  "previous": null
+  }
 }
